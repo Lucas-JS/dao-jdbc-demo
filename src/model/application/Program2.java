@@ -45,3 +45,5 @@ Scanner sc = new Scanner(System.in);
 		sc.close();
 	}
 }
+/*O segrede é quebrar os grandes problemas em pequenos pedacos administraveis. 
+ * Se voce lidar com eles de forma lógica e ponderada, terminará por resolve-los antes que perceba.*/
